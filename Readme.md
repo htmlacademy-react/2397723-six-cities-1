@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Сергей Рагозин](https://up.htmlacademy.ru/react-individual/1/user/2397723).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Думчев](https://htmlacademy.ru/profile/nikopol-fw).
 
 ---
 
